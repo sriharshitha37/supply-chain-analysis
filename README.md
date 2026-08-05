@@ -11,6 +11,8 @@ proprietary Unilever operational data).
 
 ## Key findings
 
+<img width="1650" height="675" alt="image" src="https://github.com/user-attachments/assets/44560083-e84e-43f5-add4-b114671432a1" />
+
 - **Air transport costs 34.4% more on average** than Sea transport ($561.71 vs $417.82 per shipment)
 - **Route B costs 22.7% more on average** than Route A ($595.66 vs $485.48)
 - **Haircare products show a 29.4% higher average defect rate** than cosmetics (2.48% vs 1.92%)
