@@ -1,0 +1,11 @@
+SKU,Product type,Transportation modes,Routes,Costs,Shipping times,Lead times
+SKU76,haircare,Rail,Route A,997.413450133194,10,1
+SKU91,cosmetics,Rail,Route B,996.778314950623,7,22
+SKU9,skincare,Rail,Route B,995.929461498641,1,27
+SKU90,skincare,Rail,Route B,990.078472505811,7,18
+SKU14,skincare,Air,Route B,929.235289960889,5,29
+SKU4,skincare,Air,Route A,923.440631711922,8,3
+SKU98,skincare,Rail,Route A,882.198863547041,7,1
+SKU30,haircare,Road,Route C,880.080988247161,7,26
+SKU87,haircare,Sea,Route B,879.359217734924,10,7
+SKU75,skincare,Air,Route C,873.129648017651,10,20

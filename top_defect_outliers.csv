@@ -1,0 +1,11 @@
+SKU,Product type,Transportation modes,Routes,Defect rates,Inspection results
+SKU42,skincare,Road,Route A,4.93925528862094,Fail
+SKU65,skincare,Rail,Route C,4.91109595484233,Fail
+SKU1,skincare,Road,Route B,4.8540680263887,Pending
+SKU84,haircare,Air,Route B,4.84345657711804,Pass
+SKU50,cosmetics,Rail,Route B,4.75480080467118,Fail
+SKU3,skincare,Rail,Route A,4.74664862064775,Fail
+SKU73,cosmetics,Road,Route A,4.6205460645137,Fail
+SKU2,haircare,Air,Route C,4.58059261919922,Pending
+SKU55,haircare,Sea,Route B,4.54891965939638,Fail
+SKU61,haircare,Air,Route A,4.36747053820505,Fail
