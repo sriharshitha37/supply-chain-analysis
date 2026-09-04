@@ -119,7 +119,7 @@ python analysis.py
 
 The script reads `supply_chain_data.xlsx` and regenerates all CSV tables and PNG visualizations under `outputs/`.
 
-## Key interview talking points
+## Key points
 
 - Used **Welch's t-test** instead of presenting descriptive averages as statistically proven differences.
 - Quantified a **transportation-mode savings scenario** while explicitly separating scenario assumptions from realized savings.
